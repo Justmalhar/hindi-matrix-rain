@@ -2,6 +2,9 @@
 
 Experience the mesmerizing effect of digital rain in the Hindi script with the "Hindi Matrix Rain" project. This open-source project creates a beautiful and captivating visual of falling Hindi characters, inspired by the iconic Matrix digital rain. It's built using plain HTML, CSS, and JavaScript, making it easy to integrate into any web project or to run standalone.
 
+
+![Hindi Matrix Rain Demo](demo.jpg)
+
 ## Features
 
 - **Pure HTML/CSS/JS Implementation:** No external libraries or frameworks required, ensuring fast load times and easy customization.
